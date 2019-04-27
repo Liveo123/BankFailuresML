@@ -24,3 +24,11 @@ use plot.ly to map out the US, let you zoom in and stuff, make bubble charts
 	use the zip code stuff outlined in the top of Analyze.py to get lat-long for each
 
 fine-tune algorithm to make it faster & more accurate
+
+Report:
+https://github.com/Liveo123/BankFailuresML/blob/master/documentation/team81report.pdf
+
+Poster from below:
+https://imgur.com/N9PgAbv
+
+![Bank Failures Machine Learning Poster](https://github.com/Liveo123/BankFailuresML/blob/master/documentation/Poster.png)
