@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: bank-failure
+Version: 0.0.1
+Summary: A package which implements random tree forrest to predict bank failure
+Home-page: https://github.gatech.edu/amampilly3/CSE6242--project-repo
+Author: CS6242
+License: UNKNOWN
+Description: WHERE TO FIND THE TRANSLATIONS:
+        
+        http://users.nber.org/~notom/tarp/fdic_codebook.pdf
+        
+        https://www5.fdic.gov/sdi/main.asp?formname=customddownload
+        
+        
+        
+        Use plot.ly to make interactive D3 charts automatically
+        
+        use plot.ly to map out the US, let you zoom in and stuff, make bubble charts
+        	use the zip code stuff outlined in the top of Analyze.py to get lat-long for each
+        
+        fine-tune algorithm to make it faster & more accurate
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
